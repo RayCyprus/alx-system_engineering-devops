@@ -6,3 +6,4 @@ ls -la script displays current directory contents, including hidden files in a l
 ls -lna prints all files in a long list with UID
 mkdir creates a new directory
 mv script to move a file
+rm deletes betty
