@@ -7,3 +7,4 @@ ls -lna prints all files in a long list with UID
 mkdir creates a new directory
 mv script to move a file
 rm deletes betty
+rm -rf to delete a directory
