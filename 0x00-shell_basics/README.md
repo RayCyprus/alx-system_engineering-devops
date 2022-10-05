@@ -9,3 +9,4 @@ mv script to move a file
 rm deletes betty
 rm -rf to delete a directory
 cd - to go back to previous directory
+11-lists script to show files
