@@ -4,3 +4,4 @@ cd home/ script that changes the working directory to the user’s home director
 ls -l script to print current directory contents in a long format
 ls -la script displays current directory contents, including hidden files in a long list
 ls -lna prints all files in a long list with UID
+mkdir creates a new directory
