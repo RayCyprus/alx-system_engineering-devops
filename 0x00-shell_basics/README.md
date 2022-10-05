@@ -10,3 +10,4 @@ rm deletes betty
 rm -rf to delete a directory
 cd - to go back to previous directory
 11-lists script to show files
+Write a script that prints the type of the file named iamafile file
