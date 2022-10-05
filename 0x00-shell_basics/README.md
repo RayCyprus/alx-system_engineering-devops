@@ -8,3 +8,4 @@ mkdir creates a new directory
 mv script to move a file
 rm deletes betty
 rm -rf to delete a directory
+cd - to go back to previous directory
